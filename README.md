@@ -15,3 +15,14 @@ The updated edition of this best-selling book uses concrete examples, minimal th
 Deep learning has already achieved remarkable results in many fields. Now it’s making waves throughout the sciences broadly and the life sciences in particular. This practical book teaches developers and scientists how to use deep learning for genomics, chemistry, biophysics, microscopy, medical analysis, and other fields.
 
 ---
+
+## **System Design Interview: An Insider’s Guide**
+
+![](asset/System_Design_Interview420.jpg)
+
+The objective of this book is to provide a reliable strategy to approach the system design questions. The right strategy and knowledge are vital to the success of an interview.  
+This book provides solid knowledge in building a scalable system. The more knowledge gained from reading this book, the better you are equipped in solving the system design
+questions.  
+This book also provides a step by step framework on how to tackle a system design question. It provides many examples to illustrate the systematic approach with detailed steps that you can follow. With constant practice, you will be well-equipped to tackle system design interview questions.
+
+
