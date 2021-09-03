@@ -25,4 +25,24 @@ This book provides solid knowledge in building a scalable system. The more knowl
 questions.  
 This book also provides a step by step framework on how to tackle a system design question. It provides many examples to illustrate the systematic approach with detailed steps that you can follow. With constant practice, you will be well-equipped to tackle system design interview questions.
 
+---
+
+## **Python for Data Analysis**
+## Data Wrangling with Pandas, NumPy, and IPython
+
+![](asset/Python_for_Data_Analysis.jpg)
+
+Python for Data Analysis is concerned with the nuts and bolts of manipulating, processing, cleaning, and crunching data in Python. It is also a practical, modern introduction to scientific computing in Python, tailored for data-intensive applications. This is a book about the parts of the Python language and libraries you’ll need to effectively solve a broad set of data analysis problems. This book is not an exposition on analytical methods using Python as the implementation language.
+
+Written by Wes McKinney, the main author of the pandas library, this hands-on book is packed with practical cases studies. It’s ideal for analysts new to Python and for Python programmers new to scientific computing.
+
+- Use the IPython interactive shell as your primary development environment
+- Learn basic and advanced NumPy (Numerical Python) features
+- Get started with data analysis tools in the pandas library
+- Use high-performance tools to load, clean, transform, merge, and reshape data
+- Create scatter plots and static or interactive visualizations with matplotlib
+- Apply the pandas groupby facility to slice, dice, and summarize datasets
+- Measure data by points in time, whether it’s specific instances, fixed periods, or intervals
+- Learn how to solve problems in web analytics, social sciences, finance, and economics, through detailed examples
+
 
