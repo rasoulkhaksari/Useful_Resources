@@ -45,4 +45,10 @@ Written by Wes McKinney, the main author of the pandas library, this hands-on bo
 - Measure data by points in time, whether it’s specific instances, fixed periods, or intervals
 - Learn how to solve problems in web analytics, social sciences, finance, and economics, through detailed examples
 
+---
 
+## **Grokking Deep Learning**
+
+![](asset/grokking_Deep_Learning.png)
+
+Grokking Deep Learning teaches you to build deep learning neural networks from scratch! In his engaging style, seasoned deep learning expert Andrew Trask shows you the science under the hood, so you grok for yourself every detail of training neural networks. Using only Python and its math-supporting library, NumPy, you’ll train your own neural networks to see and understand images, translate text into different languages, and even write like Shakespeare! When you’re done, you’ll be fully prepared to move on to mastering deep learning frameworks.
