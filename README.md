@@ -52,3 +52,15 @@ Written by Wes McKinney, the main author of the pandas library, this hands-on bo
 ![](asset/grokking_Deep_Learning.png)
 
 Grokking Deep Learning teaches you to build deep learning neural networks from scratch! In his engaging style, seasoned deep learning expert Andrew Trask shows you the science under the hood, so you grok for yourself every detail of training neural networks. Using only Python and its math-supporting library, NumPy, you’ll train your own neural networks to see and understand images, translate text into different languages, and even write like Shakespeare! When you’re done, you’ll be fully prepared to move on to mastering deep learning frameworks.
+
+---
+
+## **Machine Learning with Python Cookbook: Practical Solutions from Preprocessing to Deep Learning**
+
+![](asset/machine-learning-with-python-cookbook.jpg)
+
+This book is not an introduction to machine learning. If you are not comfortable with the basic concepts of machine learning or have never spent time learning machine learning, do not buy this book. Instead, this book is for the machine learning practitioner who, while comfortable with the theory and concepts of machine learning, would benefit from a quick reference containing code to solve challenges he runs into working on machine learning on an everyday basis.
+
+This book assumes the reader is comfortable with the Python programming language and package management.
+
+
