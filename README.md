@@ -63,4 +63,22 @@ This book is not an introduction to machine learning. If you are not comfortable
 
 This book assumes the reader is comfortable with the Python programming language and package management.
 
+---
 
+## **High Performance Python, 2nd Edition**
+
+![](asset/high_performance_python.jpg)
+
+Your Python code may run correctly, but you need it to run faster. Updated for Python 3, this expanded edition shows you how to locate performance bottlenecks and significantly speed up your code in high-data-volume programs. By exploring the fundamental theory behind design choices, High Performance Python helps you gain a deeper understanding of Python’s implementation.
+
+How do you take advantage of multicore architectures or clusters? Or build a system that scales up and down without losing reliability? Experienced Python programmers will learn concrete solutions to many issues, along with war stories from companies that use high-performance Python for social media analytics, productionized machine learning, and more.
+
+- Get a better grasp of NumPy, Cython, and profilers
+- Learn how Python abstracts the underlying computer architecture
+- Use profiling to find bottlenecks in CPU time and memory usage
+- Write efficient programs by choosing appropriate data structures
+- Speed up matrix and vector computations
+- Use tools to compile Python down to machine code
+- Manage multiple I/O and computational operations concurrently
+- Convert multiprocessing code to run on local or remote clusters
+- Deploy code faster using tools like Docker
